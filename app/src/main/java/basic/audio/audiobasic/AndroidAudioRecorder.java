@@ -6,10 +6,6 @@ import android.graphics.Color;
 import android.os.Environment;
 import android.support.v4.app.Fragment;
 
-import basic.audio.audiobasic.AudioChannel;
-import basic.audio.audiobasic.AudioSampleRate;
-import basic.audio.audiobasic.AudioSource;
-
 public class AndroidAudioRecorder {
 
     protected static final String EXTRA_FILE_PATH = "filePath";
